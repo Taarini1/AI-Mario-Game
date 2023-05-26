@@ -1,0 +1,58 @@
+.header{
+    font-family: 'Dongle', sans-serif;
+    color:antiquewhite;
+    width:100%;
+  background-color: black;
+  text-align:center;
+}
+
+h3{
+    font-size: 90px;
+    text-align: center;
+    background-color: rgb(0, 8, 8);
+    display: inline;
+
+    
+}
+
+h4{
+    color:white;
+    background-color: rgb(119, 0, 255);
+}
+
+#Instructions{
+
+    font-size: 50px;
+    float:right;
+    height:100px;
+  
+}
+
+.marioimg{
+    width:100%;
+}
+
+.button{
+    text-align: center;
+    background-color: rgb(165, 147, 42);
+    font-size: 30px;
+    font-family: 'Dongle', sans-serif;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+.instruction_image{
+    display:inline;
+    width:45%;
+ 
+}
+
+
+video{
+    background:url("game_console.png");
+    background-size:cover;
+    padding: 25px;
+    background-position: center;
+}
